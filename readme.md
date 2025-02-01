@@ -2,4 +2,4 @@
 
 [Lyra](https://github.com/zetkin/lyra) test case.
 
-The easiest case: two languages, two strings, one string missing in the target language.
+Using [Devise](https://github.com/heartcombo/devise) translations now. A fairly standard-looking set of typical strings.

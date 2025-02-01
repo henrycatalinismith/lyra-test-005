@@ -1,7 +1,15 @@
 projects:
   - languages:
       - en
-      - sv
+      - es
+      - fr
+      - ja
+      - nl
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - tr
     messages:
       format: yaml
       path: .
